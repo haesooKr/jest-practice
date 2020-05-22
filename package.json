@@ -5,6 +5,9 @@
   "repository": "https://github.com/haesooKr/jest-practice.git",
   "author": "haesooKr <gotn676@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^26.0.1"
   }
