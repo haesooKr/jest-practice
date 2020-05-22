@@ -1,0 +1,8 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/haesooKr/jest-practice.git",
+  "author": "haesooKr <gotn676@gmail.com>",
+  "license": "MIT"
+}
